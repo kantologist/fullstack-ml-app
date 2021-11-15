@@ -1,1 +1,4 @@
 env
+***__pycache__
+***mlruns
+heroku-deploy
